@@ -428,19 +428,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/alex/.nuget/packages/": {}
+    "/Users/vincentlorenzen/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alex/Desktop/Semester4/Agil udvikling/Orders_ShoppingApp/Orders_ShoppingApp/Orders_ShoppingApp.csproj",
+      "projectUniqueName": "/Users/vincentlorenzen/Documents/GitHub/Orders_shoppingapp/Orders_ShoppingApp/Orders_ShoppingApp.csproj",
       "projectName": "Orders_ShoppingApp",
-      "projectPath": "/Users/alex/Desktop/Semester4/Agil udvikling/Orders_ShoppingApp/Orders_ShoppingApp/Orders_ShoppingApp.csproj",
-      "packagesPath": "/Users/alex/.nuget/packages/",
-      "outputPath": "/Users/alex/Desktop/Semester4/Agil udvikling/Orders_ShoppingApp/Orders_ShoppingApp/obj/",
+      "projectPath": "/Users/vincentlorenzen/Documents/GitHub/Orders_shoppingapp/Orders_ShoppingApp/Orders_ShoppingApp.csproj",
+      "packagesPath": "/Users/vincentlorenzen/.nuget/packages/",
+      "outputPath": "/Users/vincentlorenzen/Documents/GitHub/Orders_shoppingapp/Orders_ShoppingApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/alex/.nuget/NuGet/NuGet.Config"
+        "/Users/vincentlorenzen/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -458,6 +458,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -488,7 +493,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
