@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nHVwsVrwb5i7ZmHJfDyqR8l+UJDRat/ke5TbontGdFiXgyrjAGDdgZ/8EcMH2VLE+rITD8cXnlKXEQStVDJ6Tg==",
+  "dgSpecHash": "MK+TkHRu06w=",
   "success": true,
   "projectFilePath": "/Users/alex/Desktop/Semester4/Agil udvikling/Orders_ShoppingApp/Orders_ShoppingApp/Orders_ShoppingApp.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,10 @@
     "/Users/alex/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/Users/alex/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/Users/alex/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "/Users/alex/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "/Users/alex/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/alex/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
   ],
   "logs": []
 }
