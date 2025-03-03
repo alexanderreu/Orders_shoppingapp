@@ -1,0 +1,54 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Order",
+  "description": "An order from ShoppingApp",
+  "type": "object",
+  
+  "properties": {
+    "id": {
+      "description": "The unique identifier for an order",
+      "type": "integer"
+    },
+    
+    "customerId": {
+      "description": "Unique identifier for a customer",
+      "type": "integer"
+    },
+    
+    "date": {
+      "description": "The time an order has been placed",
+      "type": "string",
+      "format": "date-time"
+    },
+    
+    "amount": {
+      "description": "The total amount for an order",
+      "type": "integer"
+    },
+    
+    "products": {
+      "description": "The products on an order",
+      "type": "string"
+    },
+    
+    "deliveryaddress": {
+      "description": "The address an order will be delivered to",
+      "type": "string"
+    },
+    
+    "paymentinfo": {
+      "description": "Payment info connected to an order",
+      "type": "string"
+    },
+    
+    "orderstatus": {
+      "description": "The state of an order",
+      "type": "string"
+    },
+    
+    "deliverystatus": {
+      "description": "Is an order delievered?",
+      "type": "boolean"
+    }
+  }
+}
